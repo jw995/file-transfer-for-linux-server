@@ -1,0 +1,364 @@
+Total BFLOPS 29.371 
+
+ seen 32 
+Enter Image Path: 0000000000.png: Predicted in 0.010684 seconds.
+Enter Image Path: 0000000001.png: Predicted in 0.010619 seconds.
+Enter Image Path: 0000000002.png: Predicted in 0.010679 seconds.
+Enter Image Path: 0000000003.png: Predicted in 0.010638 seconds.
+Enter Image Path: 0000000004.png: Predicted in 0.010654 seconds.
+bus: 30%	(left_x:  323   top_y:  217   width:  138   height:   95)
+Enter Image Path: 0000000005.png: Predicted in 0.010603 seconds.
+bus: 53%	(left_x:  295   top_y:  211   width:  152   height:  102)
+Enter Image Path: 0000000006.png: Predicted in 0.010626 seconds.
+car: 36%	(left_x:  293   top_y:  240   width:  117   height:   79)
+Enter Image Path: 0000000007.png: Predicted in 0.010622 seconds.
+Enter Image Path: 0000000008.png: Predicted in 0.010650 seconds.
+car: 42%	(left_x:  228   top_y:  249   width:  141   height:   85)
+car: 30%	(left_x:  319   top_y:  244   width:  124   height:   83)
+Enter Image Path: 0000000009.png: Predicted in 0.010759 seconds.
+car: 47%	(left_x:  199   top_y:  253   width:  153   height:   85)
+Enter Image Path: 0000000010.png: Predicted in 0.010663 seconds.
+car: 38%	(left_x:  168   top_y:  248   width:  176   height:   95)
+Enter Image Path: 0000000011.png: Predicted in 0.010644 seconds.
+bus: 27%	(left_x:   97   top_y:  127   width:  295   height:  185)
+car: 30%	(left_x:  159   top_y:  252   width:  174   height:   92)
+car: 30%	(left_x:  331   top_y:  245   width:  105   height:   74)
+Enter Image Path: 0000000012.png: Predicted in 0.010652 seconds.
+car: 51%	(left_x:   70   top_y:  238   width:  227   height:  124)
+car: 57%	(left_x:  299   top_y:  248   width:  120   height:   72)
+Enter Image Path: 0000000013.png: Predicted in 0.010627 seconds.
+car: 36%	(left_x:  293   top_y:  248   width:   97   height:   75)
+Enter Image Path: 0000000014.png: Predicted in 0.010628 seconds.
+car: 52%	(left_x:  249   top_y:  247   width:  120   height:   88)
+Enter Image Path: 0000000015.png: Predicted in 0.010652 seconds.
+bus: 45%	(left_x:   -8   top_y:   26   width:  326   height:  386)
+car: 67%	(left_x:  237   top_y:  245   width:  130   height:   89)
+Enter Image Path: 0000000016.png: Predicted in 0.010661 seconds.
+car: 61%	(left_x:   -1   top_y:  199   width:  164   height:  193)
+car: 74%	(left_x:  201   top_y:  247   width:  146   height:   89)
+Enter Image Path: 0000000017.png: Predicted in 0.010633 seconds.
+car: 36%	(left_x:    5   top_y:  222   width:   76   height:  151)
+car: 69%	(left_x:  181   top_y:  253   width:  147   height:   89)
+Enter Image Path: 0000000018.png: Predicted in 0.010617 seconds.
+car: 66%	(left_x:  107   top_y:  250   width:  167   height:  103)
+car: 32%	(left_x:  332   top_y:  253   width:   97   height:   58)
+Enter Image Path: 0000000019.png: Predicted in 0.010624 seconds.
+car: 83%	(left_x:   39   top_y:  244   width:  225   height:  127)
+car: 46%	(left_x:  319   top_y:  257   width:  100   height:   55)
+Enter Image Path: 0000000020.png: Predicted in 0.010638 seconds.
+car: 61%	(left_x:   22   top_y:  242   width:  211   height:  135)
+car: 56%	(left_x:  308   top_y:  256   width:  109   height:   58)
+Enter Image Path: 0000000021.png: Predicted in 0.010656 seconds.
+car: 38%	(left_x:   14   top_y:  261   width:  197   height:  132)
+car: 37%	(left_x:  248   top_y:  261   width:  116   height:   61)
+car: 42%	(left_x:  303   top_y:  257   width:  110   height:   55)
+Enter Image Path: 0000000022.png: Predicted in 0.010639 seconds.
+car: 64%	(left_x:   18   top_y:  247   width:  116   height:  167)
+car: 67%	(left_x:  239   top_y:  259   width:  111   height:   65)
+car: 33%	(left_x:  314   top_y:  257   width:  115   height:   58)
+Enter Image Path: 0000000023.png: Predicted in 0.010637 seconds.
+car: 53%	(left_x:   -1   top_y:  254   width:  104   height:  151)
+car: 51%	(left_x:  222   top_y:  262   width:   99   height:   68)
+car: 27%	(left_x:  352   top_y:  242   width:   81   height:   54)
+Enter Image Path: 0000000024.png: Predicted in 0.010653 seconds.
+car: 40%	(left_x:    1   top_y:  246   width:   53   height:  175)
+car: 58%	(left_x:  180   top_y:  261   width:  126   height:   72)
+car: 29%	(left_x:  315   top_y:  255   width:   98   height:   57)
+Enter Image Path: 0000000025.png: Predicted in 0.011282 seconds.
+car: 68%	(left_x:  125   top_y:  262   width:  147   height:   78)
+car: 47%	(left_x:  305   top_y:  248   width:  106   height:   68)
+Enter Image Path: 0000000026.png: Predicted in 0.010746 seconds.
+car: 76%	(left_x:   95   top_y:  264   width:  163   height:   85)
+car: 44%	(left_x:  294   top_y:  249   width:  111   height:   70)
+Enter Image Path: 0000000027.png: Predicted in 0.010665 seconds.
+car: 60%	(left_x:   82   top_y:  270   width:  148   height:   75)
+car: 50%	(left_x:  235   top_y:  251   width:  119   height:   72)
+car: 33%	(left_x:  302   top_y:  251   width:  109   height:   68)
+Enter Image Path: 0000000028.png: Predicted in 0.010673 seconds.
+car: 59%	(left_x:   57   top_y:  266   width:  151   height:   83)
+car: 68%	(left_x:  210   top_y:  251   width:  130   height:   75)
+car: 35%	(left_x:  315   top_y:  251   width:  107   height:   68)
+car: 39%	(left_x:  442   top_y:  239   width:   97   height:   54)
+Enter Image Path: 0000000029.png: Predicted in 0.010687 seconds.
+car: 44%	(left_x:   20   top_y:  269   width:  121   height:  119)
+car: 57%	(left_x:  199   top_y:  251   width:  123   height:   77)
+car: 42%	(left_x:  316   top_y:  251   width:  105   height:   67)
+car: 30%	(left_x:  439   top_y:  237   width:  103   height:   52)
+Enter Image Path: 0000000030.png: Predicted in 0.010700 seconds.
+car: 60%	(left_x:   16   top_y:  268   width:  117   height:  116)
+car: 41%	(left_x:  137   top_y:  258   width:  118   height:   87)
+car: 45%	(left_x:  190   top_y:  256   width:  123   height:   77)
+car: 47%	(left_x:  313   top_y:  249   width:  105   height:   67)
+car: 43%	(left_x:  442   top_y:  242   width:  102   height:   49)
+Enter Image Path: 0000000031.png: Predicted in 0.010671 seconds.
+car: 48%	(left_x:   -3   top_y:  243   width:   85   height:  129)
+car: 61%	(left_x:  123   top_y:  255   width:  138   height:   89)
+car: 34%	(left_x:  196   top_y:  256   width:  131   height:   79)
+car: 35%	(left_x:  298   top_y:  251   width:  119   height:   68)
+car: 30%	(left_x:  444   top_y:  238   width:   88   height:   50)
+Enter Image Path: 0000000032.png: Predicted in 0.010676 seconds.
+car: 60%	(left_x:   84   top_y:  258   width:  146   height:   87)
+car: 44%	(left_x:  213   top_y:  258   width:  120   height:   76)
+car: 38%	(left_x:  290   top_y:  251   width:  118   height:   69)
+car: 43%	(left_x:  431   top_y:  238   width:   99   height:   49)
+Enter Image Path: 0000000033.png: Predicted in 0.010659 seconds.
+car: 26%	(left_x:   13   top_y:  253   width:   80   height:   97)
+car: 54%	(left_x:   73   top_y:  256   width:  152   height:   99)
+car: 40%	(left_x:  206   top_y:  255   width:  130   height:   83)
+car: 28%	(left_x:  287   top_y:  252   width:  116   height:   72)
+car: 44%	(left_x:  421   top_y:  241   width:  108   height:   48)
+Enter Image Path: 0000000034.png: Predicted in 0.010629 seconds.
+car: 33%	(left_x:   16   top_y:  251   width:   96   height:  108)
+car: 32%	(left_x:   80   top_y:  259   width:  127   height:   98)
+car: 45%	(left_x:  206   top_y:  258   width:  118   height:   85)
+car: 32%	(left_x:  286   top_y:  256   width:  113   height:   65)
+car: 40%	(left_x:  424   top_y:  242   width:  103   height:   47)
+bus: 26%	(left_x:  779   top_y:  210   width:   70   height:   40)
+Enter Image Path: 0000000035.png: Predicted in 0.010647 seconds.
+car: 38%	(left_x:    4   top_y:  248   width:   81   height:  114)
+car: 49%	(left_x:  207   top_y:  258   width:  130   height:   84)
+car: 40%	(left_x:  422   top_y:  242   width:   95   height:   49)
+bus: 30%	(left_x:  778   top_y:  209   width:   67   height:   42)
+Enter Image Path: 0000000036.png: Predicted in 0.010633 seconds.
+car: 46%	(left_x:   14   top_y:  269   width:  108   height:  118)
+car: 50%	(left_x:  105   top_y:  260   width:  145   height:   99)
+car: 69%	(left_x:  227   top_y:  246   width:  135   height:   95)
+car: 41%	(left_x:  423   top_y:  243   width:   97   height:   46)
+bus: 30%	(left_x:  772   top_y:  208   width:   71   height:   44)
+Enter Image Path: 0000000037.png: Predicted in 0.010696 seconds.
+car: 47%	(left_x:   80   top_y:  261   width:  133   height:   94)
+car: 67%	(left_x:  214   top_y:  249   width:  119   height:   88)
+car: 32%	(left_x:  414   top_y:  243   width:   97   height:   48)
+Enter Image Path: 0000000038.png: Predicted in 0.010652 seconds.
+car: 39%	(left_x:   46   top_y:  276   width:  153   height:   94)
+car: 64%	(left_x:  175   top_y:  250   width:  132   height:   90)
+car: 48%	(left_x:  353   top_y:  250   width:  103   height:   59)
+Enter Image Path: 0000000039.png: Predicted in 0.010708 seconds.
+car: 71%	(left_x:   20   top_y:  277   width:  118   height:  112)
+car: 52%	(left_x:  164   top_y:  251   width:  141   height:   90)
+car: 63%	(left_x:  342   top_y:  248   width:  110   height:   66)
+car: 30%	(left_x:  432   top_y:  246   width:   72   height:   42)
+Enter Image Path: 0000000040.png: Predicted in 0.010695 seconds.
+car: 65%	(left_x:    1   top_y:  272   width:  104   height:  118)
+car: 67%	(left_x:   98   top_y:  254   width:  154   height:   96)
+car: 56%	(left_x:  314   top_y:  251   width:  108   height:   63)
+Enter Image Path: 0000000041.png: Predicted in 0.010709 seconds.
+car: 29%	(left_x:   10   top_y:  259   width:   74   height:  142)
+car: 48%	(left_x:   18   top_y:  248   width:  207   height:  123)
+car: 59%	(left_x:  302   top_y:  252   width:  120   height:   63)
+Enter Image Path: 0000000042.png: Predicted in 0.010651 seconds.
+car: 31%	(left_x:    5   top_y:  249   width:  225   height:  115)
+car: 35%	(left_x:   15   top_y:  251   width:   97   height:  106)
+car: 26%	(left_x:  258   top_y:  252   width:  110   height:   76)
+car: 51%	(left_x:  306   top_y:  252   width:  105   height:   64)
+bus: 27%	(left_x:  754   top_y:  207   width:   83   height:   49)
+Enter Image Path: 0000000043.png: Predicted in 0.010658 seconds.
+car: 51%	(left_x:    6   top_y:  239   width:  156   height:  183)
+car: 38%	(left_x:   18   top_y:  251   width:  103   height:  105)
+car: 75%	(left_x:  241   top_y:  257   width:  135   height:   71)
+car: 54%	(left_x:  298   top_y:  252   width:  107   height:   66)
+Enter Image Path: 0000000044.png: Predicted in 0.010660 seconds.
+car: 49%	(left_x:   15   top_y:  246   width:  112   height:  166)
+car: 72%	(left_x:  227   top_y:  256   width:  124   height:   80)
+car: 51%	(left_x:  312   top_y:  252   width:  100   height:   66)
+Enter Image Path: 0000000045.png: Predicted in 0.010665 seconds.
+car: 48%	(left_x:    2   top_y:  253   width:   85   height:  156)
+car: 73%	(left_x:  196   top_y:  258   width:  148   height:   83)
+car: 51%	(left_x:  305   top_y:  253   width:   90   height:   62)
+Enter Image Path: 0000000046.png: Predicted in 0.010667 seconds.
+car: 69%	(left_x:  184   top_y:  260   width:  156   height:   82)
+car: 62%	(left_x:  290   top_y:  254   width:   92   height:   65)
+car: 28%	(left_x:  462   top_y:  242   width:   72   height:   37)
+Enter Image Path: 0000000047.png: Predicted in 0.010649 seconds.
+car: 54%	(left_x:  123   top_y:  260   width:  144   height:   89)
+car: 62%	(left_x:  183   top_y:  258   width:  163   height:   79)
+car: 31%	(left_x:  283   top_y:  251   width:   94   height:   72)
+car: 26%	(left_x:  454   top_y:  240   width:   79   height:   38)
+Enter Image Path: 0000000048.png: Predicted in 0.010661 seconds.
+car: 41%	(left_x:  115   top_y:  261   width:  139   height:   85)
+car: 49%	(left_x:  235   top_y:  256   width:  107   height:   71)
+car: 37%	(left_x:  455   top_y:  246   width:   66   height:   36)
+train: 39%	(left_x:  738   top_y:  206   width:   85   height:   54)
+Enter Image Path: 0000000049.png: Predicted in 0.010654 seconds.
+car: 62%	(left_x:   80   top_y:  258   width:  163   height:   99)
+car: 63%	(left_x:  227   top_y:  256   width:  105   height:   75)
+car: 38%	(left_x:  438   top_y:  245   width:   66   height:   37)
+train: 52%	(left_x:  735   top_y:  203   width:  100   height:   59)
+Enter Image Path: 0000000050.png: Predicted in 0.010655 seconds.
+car: 29%	(left_x:   22   top_y:  274   width:  113   height:  106)
+car: 48%	(left_x:   57   top_y:  263   width:  172   height:   94)
+car: 70%	(left_x:  191   top_y:  258   width:  114   height:   78)
+car: 45%	(left_x:  423   top_y:  247   width:   81   height:   34)
+Enter Image Path: 0000000051.png: Predicted in 0.010675 seconds.
+car: 64%	(left_x:   15   top_y:  268   width:  138   height:  121)
+car: 70%	(left_x:  178   top_y:  259   width:  110   height:   78)
+car: 37%	(left_x:  417   top_y:  244   width:   78   height:   38)
+Enter Image Path: 0000000052.png: Predicted in 0.010642 seconds.
+car: 73%	(left_x:   17   top_y:  266   width:  115   height:  132)
+car: 80%	(left_x:  124   top_y:  260   width:  151   height:   97)
+car: 38%	(left_x:  410   top_y:  247   width:   86   height:   36)
+train: 37%	(left_x:  728   top_y:  203   width:   93   height:   57)
+Enter Image Path: 0000000053.png: Predicted in 0.010606 seconds.
+car: 53%	(left_x:    4   top_y:  272   width:   93   height:  116)
+car: 72%	(left_x:   91   top_y:  262   width:  133   height:   92)
+car: 38%	(left_x:  405   top_y:  247   width:   80   height:   38)
+Enter Image Path: 0000000054.png: Predicted in 0.011280 seconds.
+car: 26%	(left_x:   20   top_y:  270   width:   49   height:  125)
+car: 73%	(left_x:   45   top_y:  260   width:  165   height:   99)
+car: 37%	(left_x:  370   top_y:  247   width:   89   height:   42)
+train: 55%	(left_x:  714   top_y:  202   width:  119   height:   60)
+Enter Image Path: 0000000055.png: Predicted in 0.010667 seconds.
+car: 78%	(left_x:   14   top_y:  268   width:  161   height:  115)
+train: 56%	(left_x:  721   top_y:  204   width:  108   height:   57)
+Enter Image Path: 0000000056.png: Predicted in 0.010655 seconds.
+car: 78%	(left_x:   13   top_y:  265   width:  143   height:  124)
+train: 57%	(left_x:  738   top_y:  210   width:   95   height:   65)
+Enter Image Path: 0000000057.png: Predicted in 0.010677 seconds.
+car: 73%	(left_x:    7   top_y:  262   width:  115   height:  127)
+car: 38%	(left_x:  349   top_y:  245   width:   94   height:   46)
+train: 64%	(left_x:  728   top_y:  204   width:  110   height:   75)
+Enter Image Path: 0000000058.png: Predicted in 0.010629 seconds.
+car: 70%	(left_x:   10   top_y:  263   width:   85   height:  129)
+car: 58%	(left_x:  337   top_y:  255   width:  105   height:   51)
+train: 55%	(left_x:  726   top_y:  207   width:  111   height:   67)
+Enter Image Path: 0000000059.png: Predicted in 0.010652 seconds.
+car: 49%	(left_x:   13   top_y:  271   width:   53   height:  131)
+car: 61%	(left_x:  328   top_y:  247   width:  107   height:   50)
+train: 30%	(left_x:  731   top_y:  217   width:   89   height:   47)
+Enter Image Path: 0000000060.png: Predicted in 0.010652 seconds.
+car: 62%	(left_x:  300   top_y:  251   width:  117   height:   57)
+train: 53%	(left_x:  704   top_y:  202   width:  128   height:   59)
+Enter Image Path: 0000000061.png: Predicted in 0.010637 seconds.
+car: 72%	(left_x:  290   top_y:  253   width:  119   height:   58)
+train: 54%	(left_x:  710   top_y:  203   width:  112   height:   60)
+Enter Image Path: 0000000062.png: Predicted in 0.010648 seconds.
+car: 73%	(left_x:  275   top_y:  251   width:  124   height:   63)
+train: 30%	(left_x:  717   top_y:  202   width:  118   height:   60)
+Enter Image Path: 0000000063.png: Predicted in 0.010645 seconds.
+car: 68%	(left_x:  261   top_y:  252   width:  138   height:   63)
+train: 43%	(left_x:  714   top_y:  203   width:  118   height:   59)
+dog: 34%	(left_x:  823   top_y:    0   width:  307   height:  115)
+Enter Image Path: 0000000064.png: Predicted in 0.010673 seconds.
+car: 27%	(left_x:   86   top_y:  258   width:  183   height:   65)
+car: 66%	(left_x:  227   top_y:  255   width:  149   height:   61)
+train: 30%	(left_x:  715   top_y:  208   width:  111   height:   49)
+dog: 31%	(left_x:  813   top_y:    1   width:  329   height:  110)
+Enter Image Path: 0000000065.png: Predicted in 0.010634 seconds.
+car: 75%	(left_x:  216   top_y:  256   width:  146   height:   63)
+train: 35%	(left_x:  714   top_y:  208   width:  116   height:   49)
+Enter Image Path: 0000000066.png: Predicted in 0.010624 seconds.
+car: 75%	(left_x:  198   top_y:  252   width:  145   height:   71)
+train: 45%	(left_x:  712   top_y:  205   width:  112   height:   56)
+Enter Image Path: 0000000067.png: Predicted in 0.010621 seconds.
+car: 77%	(left_x:  189   top_y:  253   width:  137   height:   73)
+train: 43%	(left_x:  722   top_y:  215   width:  116   height:   51)
+Enter Image Path: 0000000068.png: Predicted in 0.010660 seconds.
+car: 80%	(left_x:  161   top_y:  256   width:  156   height:   76)
+train: 31%	(left_x:  718   top_y:  208   width:  114   height:   50)
+Enter Image Path: 0000000069.png: Predicted in 0.010648 seconds.
+car: 82%	(left_x:  134   top_y:  255   width:  174   height:   87)
+train: 52%	(left_x:  722   top_y:  215   width:  120   height:   51)
+Enter Image Path: 0000000070.png: Predicted in 0.010676 seconds.
+car: 78%	(left_x:  102   top_y:  257   width:  183   height:   89)
+train: 50%	(left_x:  722   top_y:  214   width:  107   height:   52)
+Enter Image Path: 0000000071.png: Predicted in 0.010650 seconds.
+car: 83%	(left_x:   86   top_y:  261   width:  190   height:   89)
+train: 28%	(left_x:  745   top_y:  202   width:  577   height:   90)
+Enter Image Path: 0000000072.png: Predicted in 0.010653 seconds.
+car: 81%	(left_x:   69   top_y:  260   width:  174   height:   92)
+train: 35%	(left_x:  728   top_y:  215   width:   95   height:   50)
+Enter Image Path: 0000000073.png: Predicted in 0.010622 seconds.
+car: 79%	(left_x:   35   top_y:  261   width:  187   height:   99)
+train: 34%	(left_x:  727   top_y:  221   width:   92   height:   43)
+Enter Image Path: 0000000074.png: Predicted in 0.010639 seconds.
+car: 73%	(left_x:    4   top_y:  261   width:  191   height:  124)
+car: 30%	(left_x:   24   top_y:  257   width:  103   height:   97)
+train: 48%	(left_x:  729   top_y:  220   width:   95   height:   47)
+Enter Image Path: 0000000075.png: Predicted in 0.010626 seconds.
+car: 77%	(left_x:    9   top_y:  266   width:  172   height:  118)
+train: 56%	(left_x:  718   top_y:  217   width:  111   height:   50)
+Enter Image Path: 0000000076.png: Predicted in 0.010642 seconds.
+car: 78%	(left_x:   15   top_y:  261   width:  144   height:  128)
+car: 29%	(left_x:  189   top_y:  251   width:  140   height:   38)
+train: 27%	(left_x:  734   top_y:  220   width:   84   height:   46)
+Enter Image Path: 0000000077.png: Predicted in 0.010606 seconds.
+car: 73%	(left_x:   10   top_y:  259   width:  126   height:  126)
+car: 39%	(left_x:  175   top_y:  249   width:  147   height:   40)
+train: 33%	(left_x:  719   top_y:  216   width:  105   height:   51)
+Enter Image Path: 0000000078.png: Predicted in 0.010637 seconds.
+car: 68%	(left_x:   13   top_y:  253   width:   88   height:  137)
+train: 42%	(left_x:  725   top_y:  218   width:   94   height:   48)
+Enter Image Path: 0000000079.png: Predicted in 0.010644 seconds.
+car: 70%	(left_x:    6   top_y:  211   width:   79   height:  191)
+train: 32%	(left_x:  716   top_y:  200   width:  102   height:   63)
+Enter Image Path: 0000000080.png: Predicted in 0.010635 seconds.
+car: 31%	(left_x:  287   top_y:  235   width:  120   height:   45)
+train: 31%	(left_x:  719   top_y:  203   width:   97   height:   56)
+Enter Image Path: 0000000081.png: Predicted in 0.010676 seconds.
+car: 30%	(left_x:  293   top_y:  233   width:  125   height:   45)
+train: 46%	(left_x:  715   top_y:  203   width:   97   height:   60)
+Enter Image Path: 0000000082.png: Predicted in 0.010650 seconds.
+car: 42%	(left_x:   -9   top_y:  246   width:  365   height:   96)
+car: 27%	(left_x:  286   top_y:  227   width:  144   height:   44)
+train: 30%	(left_x:  722   top_y:  203   width:   97   height:   56)
+Enter Image Path: 0000000083.png: Predicted in 0.010657 seconds.
+Enter Image Path: 0000000084.png: Predicted in 0.010696 seconds.
+Enter Image Path: 0000000085.png: Predicted in 0.010649 seconds.
+Enter Image Path: 0000000086.png: Predicted in 0.010711 seconds.
+Enter Image Path: 0000000087.png: Predicted in 0.010642 seconds.
+train: 31%	(left_x: 1280   top_y:  205   width:   95   height:   98)
+Enter Image Path: 0000000088.png: Predicted in 0.010663 seconds.
+Enter Image Path: 0000000089.png: Predicted in 0.010637 seconds.
+train: 26%	(left_x: 1294   top_y:  198   width:   90   height:  111)
+Enter Image Path: 0000000090.png: Predicted in 0.010665 seconds.
+car: 26%	(left_x:  199   top_y:  236   width:  142   height:   44)
+Enter Image Path: 0000000091.png: Predicted in 0.010662 seconds.
+Enter Image Path: 0000000092.png: Predicted in 0.010656 seconds.
+Enter Image Path: 0000000093.png: Predicted in 0.010628 seconds.
+car: 34%	(left_x:  217   top_y:  245   width:  119   height:   41)
+train: 26%	(left_x: 1089   top_y:  191   width:  310   height:  111)
+Enter Image Path: 0000000094.png: Predicted in 0.010644 seconds.
+Enter Image Path: 0000000095.png: Predicted in 0.010625 seconds.
+Enter Image Path: 0000000096.png: Predicted in 0.010667 seconds.
+Enter Image Path: 0000000097.png: Predicted in 0.010654 seconds.
+Enter Image Path: 0000000098.png: Predicted in 0.010665 seconds.
+horse: 26%	(left_x: 1321   top_y:  201   width:   72   height:  113)
+Enter Image Path: 0000000099.png: Predicted in 0.010645 seconds.
+car: 32%	(left_x:  190   top_y:  243   width:  132   height:   46)
+Enter Image Path: 0000000100.png: Predicted in 0.010644 seconds.
+car: 29%	(left_x:    9   top_y:  249   width:  121   height:   85)
+car: 35%	(left_x:  109   top_y:  246   width:  144   height:   48)
+car: 37%	(left_x:  194   top_y:  241   width:  131   height:   45)
+Enter Image Path: 0000000101.png: Predicted in 0.011312 seconds.
+car: 27%	(left_x:  125   top_y:  247   width:  116   height:   45)
+person: 26%	(left_x:  582   top_y:    2   width:   96   height:   54)
+Enter Image Path: 0000000102.png: Predicted in 0.010633 seconds.
+car: 33%	(left_x:    3   top_y:  232   width:   96   height:   67)
+car: 40%	(left_x:  129   top_y:  246   width:  119   height:   46)
+Enter Image Path: 0000000103.png: Predicted in 0.010637 seconds.
+car: 32%	(left_x:  103   top_y:  249   width:  133   height:   47)
+Enter Image Path: 0000000104.png: Predicted in 0.010640 seconds.
+car: 46%	(left_x:  119   top_y:  251   width:  113   height:   42)
+Enter Image Path: 0000000105.png: Predicted in 0.010686 seconds.
+car: 29%	(left_x:    6   top_y:  253   width:   70   height:   84)
+car: 51%	(left_x:   93   top_y:  252   width:  126   height:   53)
+Enter Image Path: 0000000106.png: Predicted in 0.010646 seconds.
+car: 62%	(left_x:  101   top_y:  249   width:  121   height:   47)
+Enter Image Path: 0000000107.png: Predicted in 0.010622 seconds.
+car: 57%	(left_x:   89   top_y:  251   width:  104   height:   55)
+Enter Image Path: 0000000108.png: Predicted in 0.010654 seconds.
+car: 63%	(left_x:   85   top_y:  251   width:  109   height:   57)
+Enter Image Path: 0000000109.png: Predicted in 0.010648 seconds.
+car: 67%	(left_x:   74   top_y:  253   width:  121   height:   55)
+bicycle: 31%	(left_x: 1365   top_y:  209   width:   33   height:  103)
+Enter Image Path: 0000000110.png: Predicted in 0.010607 seconds.
+car: 65%	(left_x:   66   top_y:  253   width:  137   height:   55)
+Enter Image Path: 0000000111.png: Predicted in 0.010640 seconds.
+car: 64%	(left_x:   63   top_y:  253   width:  140   height:   56)
+Enter Image Path: 0000000112.png: Predicted in 0.010668 seconds.
+car: 33%	(left_x:   32   top_y:  253   width:   70   height:   60)
+car: 61%	(left_x:   56   top_y:  250   width:  146   height:   58)
+Enter Image Path: 0000000113.png: Predicted in 0.010624 seconds.
+car: 35%	(left_x:   38   top_y:  254   width:   80   height:   58)
+car: 57%	(left_x:   56   top_y:  252   width:  147   height:   55)
+Enter Image Path: 
